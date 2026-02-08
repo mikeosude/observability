@@ -1,5 +1,3 @@
----
-
 ## Agents
 
 The `agents/` directory contains custom-built telemetry collectors and helpers, primarily written in Go, with supporting shell tooling where appropriate.
