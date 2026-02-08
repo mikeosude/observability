@@ -1,0 +1,30 @@
+# Compiled binaries
+go_build/dnf_last_update/dnf_last_update
+go_build/dnf_update_check/dnf_update_check
+go_build/chrony_sources/chrony_sources
+
+# Go workspace
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
